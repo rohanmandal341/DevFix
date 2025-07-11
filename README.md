@@ -3,7 +3,7 @@
 **DevFix** is a smart search platform that gives you instant 2–3 minute setup videos, clear solution steps, and Gemini AI support — so you can skip long YouTube videos and confusing blogs.
 
 ## Deployed- 
-https://snap-setup-frontend.vercel.app/home
+https://snap-setup-frontend.vercel.app
 ---
 
 ## 📸 Screenshots
