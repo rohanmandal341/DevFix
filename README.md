@@ -58,13 +58,13 @@
 ---
 
 ## 📂 Folder Structure
-
+```bash
 DevFix/
 ├── DevFix-frontend/ # React + Vite (client)
 ├── DevFix-backend/ # Spring Boot (server)
 ├── README.md
 └── screenshots/ # UI Screenshots
-
+```
 
 ---
 ## 📂 Folder Structure
