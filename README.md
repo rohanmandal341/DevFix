@@ -58,6 +58,7 @@
 ---
 
 ## 📂 Folder Structure
+
 DevFix/
 ├── DevFix-frontend/ # React + Vite (client)
 ├── DevFix-backend/ # Spring Boot (server)
@@ -66,13 +67,15 @@ DevFix/
 
 
 ---
+## 📂 Folder Structure
 
-## 🔐 Roles & Access
-
-| Role   | Access Features                           |
-|--------|--------------------------------------------|
-| User   | Can search, view videos & solutions, use Gemini |
-| Admin  | Can manage setups (add/edit/delete), full dashboard |
+```text
+DevFix/
+├── DevFix-frontend/     # React + Vite (Client)
+├── DevFix-backend/      # Spring Boot (Server)
+├── README.md            # Project Documentation
+└── screenshots/         # UI Screenshots
+```
 
 ---
 
